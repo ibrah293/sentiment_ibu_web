@@ -1,4 +1,0 @@
-text,sentiment,confidence,model_type,timestamp,analysis_type
-"bad
-
-",negative,0.5184315980242054,logistic_regression,2025-06-21 09:13:17,sentiment
